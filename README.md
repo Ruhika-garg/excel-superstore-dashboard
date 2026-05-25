@@ -1,7 +1,7 @@
 # excel-superstore-dashboard
 ## Overview
 This project demonstrates an interactive Excel dashboard built using the Sample Superstore dataset. The dashboard provides insights into sales performance, profit trends, customer behavior, and category-wise business analysis.
-
+ 
 The goal of this project was to practice data analysis, dashboard design, and business insight generation using Microsoft Excel.
 
 ## Tools and Excel Features Used
