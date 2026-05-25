@@ -42,5 +42,5 @@ The goal of this project was to practice data analysis, dashboard design, and bu
 * Phones and Chairs were among the highest-selling sub-categories.
 
 ## Project Screenshot
-![Dashboard Screenshot](Superstore_Dashboard.png)
+![Dashboard Screenshot](Superstore_Dasboard.png)
 
